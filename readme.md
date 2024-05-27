@@ -7,6 +7,6 @@
 
 ### 계획
 
-| week | subject | contents |
+| step | subject | contents |
 |:----:|:-------:|----------|
-| 1주차  |   그리디   |
+|  1   |   그리디   |
